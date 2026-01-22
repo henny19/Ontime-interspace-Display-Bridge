@@ -45,6 +45,8 @@ The device is powered by the 12V rail from the legacy controller (or a 12V PSU) 
 * **Pin 2 (Data):** The input data line is **disconnected** (capped off) to stop the original signal. The new signal from the MAX3232 is injected into the Output XLR Pin 2\.  
 * **Pin 3 (12V):** Passthrough power, tapped to feed the 5V regulator.
 
+![.](https://github.com/henny19/Ontime-interspace-Display-Bridge/blob/main/ONTIME%20Injector%20V1.png)
+
 ## **💻 Software Setup**
 
 ### **Prerequisites**
